@@ -500,6 +500,7 @@ $SLANG = array(
     'Mtg2widgrd'            => '2-wide grid',              // Added 2013.08.15.
     'Mtg3widgrd'            => '3-wide grid',              // Added 2013.08.15.
     'Mtg4widgrd'            => '4-wide grid',              // Added 2013.08.15.
+    'Mtg4widgrs'            => '4-wide grid, scaled',              // Added 2016.04.12.
     'Mtg3widgrx'            => '3-wide grid, scaled, enlarge on alarm',              // Added 2013.08.15.
     'MustBeGe'              => 'must be greater than or equal to',
     'MustBeLe'              => 'must be less than or equal to',

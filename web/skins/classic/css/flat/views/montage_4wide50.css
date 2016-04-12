@@ -1,0 +1,64 @@
+#monitors {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#monitors .monitorFrame {
+    float: left;
+    padding: 1px;
+}
+
+#monitors .monitor {
+    text-align: center;
+}
+
+#monitorFrame0, #monitorFrame4, #monitorFrame8, #monitorFrame12, #monitorFrame16, #monitorFrame20 {
+    width: 24.75%;
+    text-align: right;
+    clear: both;
+}
+
+#monitor0, #monitor4, #monitor8, #monitor12, #monitor16, #monitor20 {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+#monitorFrame1, #monitorFrame5, #monitorFrame9, #monitorFrame13, #monitorFrame17, #monitorFrame21 {
+    width: 24.75%;
+    text-align: center;
+}
+
+#monitor1, #monitor5, #monitor9, #monitor13, #monitor17, #monitor21 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#monitorFrame2, #monitorFrame6, #monitorFrame10, #monitorFrame14, #monitorFrame18, #monitorFrame22 {
+    width: 24.75%;
+    text-align: center;
+}
+
+#monitor2, #monitor6, #monitor10, #monitor14, #monitor18, #monitor22 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#monitorFrame3, #monitorFrame7, #monitorFrame11, #monitorFrame15, #monitorFrame19, #monitorFrame23 {
+    width: 24.75%;
+    text-align: left;
+}
+
+#monitor3, #monitor7, #monitor11, #monitor15, #monitor19, #monitor23 {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+#monitors .imageFeed img {
+    width: 99%;
+    height: 99%;
+}
+
+#monitors .monitorFrame div.monitorState {
+    text-align: center;
+}

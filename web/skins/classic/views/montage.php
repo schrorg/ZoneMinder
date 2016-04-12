@@ -76,6 +76,7 @@ $layouts = array(
     'montage_2wide.css' => translate('Mtg2widgrd'),
     'montage_3wide.css' => translate('Mtg3widgrd'),
     'montage_4wide.css' => translate('Mtg4widgrd'),
+    'montage_4wide50.css' => translate('Mtg4widgrs'),
     'montage_3wide50enlarge.css' => translate('Mtg3widgrx'),
 );
 
